@@ -10,5 +10,5 @@ variable "vpc_cidr" {
 }
 variable "aws_region" {
   default = "us-west-1"
-  description = "aws region"
+  description = "aws regio"
 }
